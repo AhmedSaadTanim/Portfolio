@@ -3,6 +3,12 @@ const nextConfig = {
   compiler: {
     removeConsole: false,
   },
+
+  output: 'export',
+  basePath: '/portfolio',
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
