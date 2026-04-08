@@ -99,9 +99,9 @@ export const educationItems = [
       </>
     ),
     certificate:
-      "https://drive.google.com/file/d/15mMnj5v70ZTMtR7QXnukujfCN33hLdRQ/view",
+      "https://drive.google.com/file/d/1-5id8matVUouxL5vrx_ar3I2wyuOSW9r/view",
     transcript:
-      "https://drive.google.com/file/d/16L-TaIGpjcJ709As6phSNmAeDL3bDIIz/view",
+      "https://drive.google.com/file/d/1mP3wtWrs2w6AOb_W5XKHIEuo4WOh78eQ/view",
   },
   {
     institution: "St. Joseph Higher Secondary School and College",
@@ -116,7 +116,7 @@ export const educationItems = [
       </>
     ),
     certificate:
-      "https://drive.google.com/file/d/1Bs1RXLpvfW7wigqE1XcViAlYQAXctPq6/view",
+      "https://drive.google.com/file/d/13ivCbEkj-qEh7D3R7KvtB4OFymGlUavo/view",
     transcript: null,
   },
   {
@@ -132,7 +132,7 @@ export const educationItems = [
       </>
     ),
     certificate:
-      "https://drive.google.com/file/d/1jlC3WAcSR6V90d7DU3MbzrFdwhavncCG/view?usp=sharing",
+      "https://drive.google.com/file/d/1jlC3WAcSR6V90d7DU3MbzrFdwhavncCG/view",
     transcript: null,
   },
 ];
