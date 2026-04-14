@@ -101,7 +101,7 @@ export const educationItems = [
     certificate:
       "https://drive.google.com/file/d/1-5id8matVUouxL5vrx_ar3I2wyuOSW9r/view",
     transcript:
-      "https://drive.google.com/file/d/1mP3wtWrs2w6AOb_W5XKHIEuo4WOh78eQ/view",
+      "https://drive.google.com/file/d/1E6IHb3rssSN7ksa149CcDeJ7-3aljYKP/view",
   },
   {
     institution: "St. Joseph Higher Secondary School and College",
