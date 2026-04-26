@@ -183,6 +183,20 @@ export const courseCompletedItems = [
 
 export const projectItems = [
   {
+    title: "Hybrid RL & IL for Autonomous Driving in Simulation",
+    description: "Evaluation of RL, imitation learning, and hybrid strategies for autonomous driving in Unity-based simulation environments.",
+    gitLink: "https://github.com/AhmedSaadTanim/hybrid-rl-il-autonomous-driving",
+    demoLink: "N/A",
+    embedLink: "N/A",
+  },
+  {
+    title: "Main Memory",
+    description: "A text based interactive game where game AI adapts to player responses and actions",
+    gitLink: "https://github.com/TeamAugmentors/Main-Memory",
+    demoLink: "N/A",
+    embedLink: "N/A",
+  },
+  {
     title: "JobSeeker Web",
     description: "A medium between freelancers and hirers in Bangladesh",
     gitLink: "https://github.com/TeamAugmentors/JobseekerWeb",
